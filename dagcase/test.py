@@ -54,7 +54,7 @@ if __name__ == "__main__":
     outcases=create_out(cases, dag)
     save_cases(outcases,'dag')
 
-    # save_dag_to_csv(dag)
+    save_dag_to_csv(dag)
     save_dag_to_csv(dag,'dag')
 
 
